@@ -1,10 +1,8 @@
 ## Hexal Energy app
 
-This is a starter ReactJS UI for my 'Create a Serverless App' tutorial series.
+This is Serverless App with ReactJS UI
 
 ## Application Info
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
