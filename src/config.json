@@ -1,0 +1,5 @@
+{
+  "api": { 
+    "invokeUrl": "https://bwbo1q2k26.execute-api.us-west-2.amazonaws.com/prod"
+  } 
+}
